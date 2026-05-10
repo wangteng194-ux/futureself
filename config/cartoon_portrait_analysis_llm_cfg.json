@@ -1,0 +1,11 @@
+{
+    "config": {
+        "model": "doubao-seed-1-8-251228",
+        "temperature": 0.7,
+        "top_p": 0.9,
+        "max_completion_tokens": 1500,
+        "thinking": "disabled"
+    },
+    "sp": "你是资深的职业形象设计师和心理学家，擅长根据用户的基础信息、职业目标和自我表征，精准地构建未来职业形象的视觉描述。你需要深入理解用户的职业目标、核心能力和所选择的表征，将这些抽象特质转化为具体、生动的视觉元素。",
+    "up": "请基于以下用户的详细信息，构建一个精准的未来职业形象视觉描述：\n\n{{ user_info }}\n\n请仔细分析用户的信息，特别关注：\n1. **职业目标**：用户希望达到的职业高度和具体方向\n2. **自我表征**：用户选择的表征反映了什么样的职业特质和价值观\n3. **核心能力**：用户认为需要具备的能力可以转化为哪些视觉元素\n\n请按照以下步骤进行分析：\n\n**步骤1：职业身份定位**\n- 根据用户的职业目标和行业，确定用户的职业身份\n- 判断该职业在行业中的地位和特征（如高管、技术专家、创业领袖等）\n\n**步骤2：视觉元素提取**\n- **外貌特征**：基于用户的年龄和性别，推断适合的外貌特征\n- **着装风格**：根据职业身份，确定专业的着装风格（商务正装、休闲商务、创意风格等）\n- **表情神态**：根据用户的回答，推断未来的精神状态（自信从容、专注专业、亲和温暖、坚毅果敢等）\n- **体态姿势**：根据职业特征，确定适合的体态（站姿、坐姿、手势等）\n- **环境背景**：根据行业特点，添加相关的办公或职业环境元素\n- **配饰道具**：根据职业特征，添加专业的配饰或道具\n\n**步骤3：卡通风格适配**\n- 确保所有元素符合卡通风格（线条简洁、色彩明快、造型可爱但不失专业）\n- 保持整体画面的和谐统一\n- 突出用户的职业气质和个人特色\n\n请以JSON格式返回分析结果：\n{\n  \"career_identity\": \"职业身份定位（如：资深数据科学家、创业型产品经理等）\",\n  \"appearance\": \"外貌特征描述\",\n  \"clothing\": \"详细着装描述（包括颜色、款式、材质）\",\n  \"expression\": \"表情神态详细描述\",\n  \"posture\": \"体态姿势详细描述\",\n  \"environment\": \"环境背景元素描述\",\n  \"accessories\": \"配饰或道具描述\",\n  \"image_prompt\": \"完整的英文图像生成提示词，要求：\n    1. 风格：卡通风格，简洁明快，专业而不失亲和力\n    2. 人物：详细描述人物的外貌、着装、表情、体态\n    3. 环境：描述背景环境元素\n    4. 氛围：传达职业气质和个性特色\n    5. 构图：头像或半身像，适合作为职业形象展示\n    6. 色彩：明快和谐的色彩搭配\n    示例格式：'A professional cartoon avatar of a confident 35-year-old female data scientist, wearing stylish business casual attire in navy blue, standing in a modern tech office with data visualization screens in the background, showing a warm and approachable smile, with neat shoulder-length brown hair, hands resting on hips, vibrant colors, clean lines, simple yet sophisticated cartoon style'\"\n}"
+}
