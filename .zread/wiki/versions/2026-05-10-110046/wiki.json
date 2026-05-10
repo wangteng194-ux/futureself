@@ -1,0 +1,245 @@
+{
+  "id": "2026-05-10-110046",
+  "generated_at": "2026-05-10T03:00:46.4348961Z",
+  "language": "zh",
+  "pages": [
+    {
+      "slug": "1-xiang-mu-gai-shu",
+      "title": "项目概述",
+      "file": "1-xiang-mu-gai-shu.md",
+      "section": "快速入门",
+      "level": "Beginner"
+    },
+    {
+      "slug": "2-huan-jing-pei-zhi-yu-an-zhuang",
+      "title": "环境配置与安装",
+      "file": "2-huan-jing-pei-zhi-yu-an-zhuang.md",
+      "section": "快速入门",
+      "level": "Beginner"
+    },
+    {
+      "slug": "3-ben-di-yun-xing-liu-cheng",
+      "title": "本地运行流程",
+      "file": "3-ben-di-yun-xing-liu-cheng.md",
+      "section": "快速入门",
+      "level": "Beginner"
+    },
+    {
+      "slug": "4-httpfu-wu-qi-dong",
+      "title": "HTTP服务启动",
+      "file": "4-httpfu-wu-qi-dong.md",
+      "section": "快速入门",
+      "level": "Beginner"
+    },
+    {
+      "slug": "5-shu-ru-can-shu-shuo-ming",
+      "title": "输入参数说明",
+      "file": "5-shu-ru-can-shu-shuo-ming.md",
+      "section": "快速入门",
+      "level": "Beginner"
+    },
+    {
+      "slug": "6-gong-zuo-liu-zong-lan",
+      "title": "工作流总览",
+      "file": "6-gong-zuo-liu-zong-lan.md",
+      "section": "核心架构",
+      "level": "Intermediate"
+    },
+    {
+      "slug": "7-zhuang-tai-shu-ju-mo-xing",
+      "title": "状态数据模型",
+      "file": "7-zhuang-tai-shu-ju-mo-xing.md",
+      "section": "核心架构",
+      "level": "Intermediate"
+    },
+    {
+      "slug": "8-tu-bian-pai-ji-zhi",
+      "title": "图编排机制",
+      "file": "8-tu-bian-pai-ji-zhi.md",
+      "section": "核心架构",
+      "level": "Intermediate"
+    },
+    {
+      "slug": "9-da-wu-ren-ge-ping-gu-jie-dian",
+      "title": "大五人格评估节点",
+      "file": "9-da-wu-ren-ge-ping-gu-jie-dian.md",
+      "section": "核心架构",
+      "group": "核心节点模块",
+      "level": "Intermediate"
+    },
+    {
+      "slug": "10-biao-zheng-pei-dui-yu-ping-fen-jie-dian",
+      "title": "表征配对与评分节点",
+      "file": "10-biao-zheng-pei-dui-yu-ping-fen-jie-dian.md",
+      "section": "核心架构",
+      "group": "核心节点模块",
+      "level": "Intermediate"
+    },
+    {
+      "slug": "11-wang-luo-fen-xi-yu-ke-shi-hua-jie-dian",
+      "title": "网络分析与可视化节点",
+      "file": "11-wang-luo-fen-xi-yu-ke-shi-hua-jie-dian.md",
+      "section": "核心架构",
+      "group": "核心节点模块",
+      "level": "Intermediate"
+    },
+    {
+      "slug": "12-gang-wei-fen-xi-jie-dian",
+      "title": "岗位分析节点",
+      "file": "12-gang-wei-fen-xi-jie-dian.md",
+      "section": "核心架构",
+      "group": "核心节点模块",
+      "level": "Intermediate"
+    },
+    {
+      "slug": "13-qia-tong-xing-xiang-sheng-cheng-jie-dian",
+      "title": "卡通形象生成节点",
+      "file": "13-qia-tong-xing-xiang-sheng-cheng-jie-dian.md",
+      "section": "核心架构",
+      "group": "核心节点模块",
+      "level": "Intermediate"
+    },
+    {
+      "slug": "14-bao-gao-sheng-cheng-jie-dian",
+      "title": "报告生成节点",
+      "file": "14-bao-gao-sheng-cheng-jie-dian.md",
+      "section": "核心架构",
+      "group": "核心节点模块",
+      "level": "Intermediate"
+    },
+    {
+      "slug": "15-nei-cun-cun-chu-shi-xian",
+      "title": "内存存储实现",
+      "file": "15-nei-cun-cun-chu-shi-xian.md",
+      "section": "技术深度",
+      "group": "存储系统",
+      "level": "Advanced"
+    },
+    {
+      "slug": "16-shu-ju-ku-cao-zuo-gui-fan",
+      "title": "数据库操作规范",
+      "file": "16-shu-ju-ku-cao-zuo-gui-fan.md",
+      "section": "技术深度",
+      "group": "存储系统",
+      "level": "Advanced"
+    },
+    {
+      "slug": "17-s3dui-xiang-cun-chu-ji-cheng",
+      "title": "S3对象存储集成",
+      "file": "17-s3dui-xiang-cun-chu-ji-cheng.md",
+      "section": "技术深度",
+      "group": "存储系统",
+      "level": "Advanced"
+    },
+    {
+      "slug": "18-llmpei-zhi-guan-li",
+      "title": "LLM配置管理",
+      "file": "18-llmpei-zhi-guan-li.md",
+      "section": "技术深度",
+      "group": "工具与工具库",
+      "level": "Advanced"
+    },
+    {
+      "slug": "19-ri-zhi-xi-tong-she-ji",
+      "title": "日志系统设计",
+      "file": "19-ri-zhi-xi-tong-she-ji.md",
+      "section": "技术深度",
+      "group": "工具与工具库",
+      "level": "Advanced"
+    },
+    {
+      "slug": "20-cuo-wu-fen-lei-yu-chu-li",
+      "title": "错误分类与处理",
+      "file": "20-cuo-wu-fen-lei-yu-chu-li.md",
+      "section": "技术深度",
+      "group": "工具与工具库",
+      "level": "Advanced"
+    },
+    {
+      "slug": "21-xiao-xi-xie-yi-ding-yi",
+      "title": "消息协议定义",
+      "file": "21-xiao-xi-xie-yi-ding-yi.md",
+      "section": "技术深度",
+      "group": "工具与工具库",
+      "level": "Advanced"
+    },
+    {
+      "slug": "22-openaijian-rong-ceng-shi-xian",
+      "title": "OpenAI兼容层实现",
+      "file": "22-openaijian-rong-ceng-shi-xian.md",
+      "section": "技术深度",
+      "group": "工具与工具库",
+      "level": "Advanced"
+    },
+    {
+      "slug": "23-liu-shi-xiang-ying-yu-qu-xiao-ji-zhi",
+      "title": "流式响应与取消机制",
+      "file": "23-liu-shi-xiang-ying-yu-qu-xiao-ji-zhi.md",
+      "section": "技术深度",
+      "level": "Advanced"
+    },
+    {
+      "slug": "24-xiang-mu-jie-gou-gui-fan",
+      "title": "项目结构规范",
+      "file": "24-xiang-mu-jie-gou-gui-fan.md",
+      "section": "开发指南",
+      "level": "Intermediate"
+    },
+    {
+      "slug": "25-jie-dian-kai-fa-gui-fan",
+      "title": "节点开发规范",
+      "file": "25-jie-dian-kai-fa-gui-fan.md",
+      "section": "开发指南",
+      "level": "Intermediate"
+    },
+    {
+      "slug": "26-pei-zhi-wen-jian-bian-xie-zhi-nan",
+      "title": "配置文件编写指南",
+      "file": "26-pei-zhi-wen-jian-bian-xie-zhi-nan.md",
+      "section": "开发指南",
+      "level": "Intermediate"
+    },
+    {
+      "slug": "27-diao-shi-yu-ri-zhi-fen-xi",
+      "title": "调试与日志分析",
+      "file": "27-diao-shi-yu-ri-zhi-fen-xi.md",
+      "section": "开发指南",
+      "level": "Intermediate"
+    },
+    {
+      "slug": "28-xing-neng-you-hua-jian-yi",
+      "title": "性能优化建议",
+      "file": "28-xing-neng-you-hua-jian-yi.md",
+      "section": "开发指南",
+      "level": "Advanced"
+    },
+    {
+      "slug": "29-kuo-zhan-yu-ding-zhi-kai-fa",
+      "title": "扩展与定制开发",
+      "file": "29-kuo-zhan-yu-ding-zhi-kai-fa.md",
+      "section": "开发指南",
+      "level": "Advanced"
+    },
+    {
+      "slug": "30-apijie-kou-wen-dang",
+      "title": "API接口文档",
+      "file": "30-apijie-kou-wen-dang.md",
+      "section": "参考文档",
+      "level": "Beginner"
+    },
+    {
+      "slug": "31-chang-jian-wen-ti-jie-da",
+      "title": "常见问题解答",
+      "file": "31-chang-jian-wen-ti-jie-da.md",
+      "section": "参考文档",
+      "level": "Intermediate"
+    },
+    {
+      "slug": "32-gu-zhang-pai-cha-shou-ce",
+      "title": "故障排查手册",
+      "file": "32-gu-zhang-pai-cha-shou-ce.md",
+      "section": "参考文档",
+      "level": "Intermediate"
+    }
+  ]
+}
